@@ -1,2 +1,3 @@
 # UnderstandingGIT
-This is to understand git concepts
+Description for Git understanding
+
