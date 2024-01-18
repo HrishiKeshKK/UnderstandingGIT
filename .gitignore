@@ -1,0 +1,4 @@
+#Ignore text files.
+*.text
+#ignore python files
+*.py
